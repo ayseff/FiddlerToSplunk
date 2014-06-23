@@ -52,8 +52,9 @@
     <Reference Include="ServiceStack.Text">
       <HintPath>..\packages\ServiceStack.Text.4.0.22\lib\net40\ServiceStack.Text.dll</HintPath>
     </Reference>
-    <Reference Include="Splunk.Client">
-      <HintPath>..\packages\Splunk.Client.1.0.0-CI00009\lib\portable-net45+win\Splunk.Client.dll</HintPath>
+    <Reference Include="Splunk.Client, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Splunk.Client.1.0.0-CI00015\lib\portable-net45+win\Splunk.Client.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
